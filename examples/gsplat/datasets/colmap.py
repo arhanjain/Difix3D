@@ -9,7 +9,7 @@ import numpy as np
 import torch
 from pycolmap import SceneManager
 
-from .normalize import (
+from normalize import (
     align_principle_axes,
     similarity_from_cameras,
     transform_cameras,

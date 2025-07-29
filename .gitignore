@@ -1,0 +1,7 @@
+**.png
+**.pkl
+**.log
+**.txt
+outputs/
+
+__pycache__/
